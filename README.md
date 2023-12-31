@@ -1,4 +1,4 @@
-# BI_360-PowerBI_Project
+# Business_Insights_360-PowerBI_Project
 
 ## 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐦𝐞𝐧𝐭:
 AtliQ Hardware, a rapidly expanding global consumer electronics company, has been grappling with unwieldy Excel files for data analytics. This outdated approach has been hindering effective decision-making and causing significant losses. In response, they urgently sought agile, data-driven decision-making.
