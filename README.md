@@ -43,4 +43,4 @@ Develop an interactive report offering invaluable insights across finance, sales
  
 ♾️Executive View: Analyze subzones, track market share trends, and identify top customers/products by revenue. 
 
-###### Live Dashboard - [BI-360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzZhYWJhZjctOTI4Yy00OTlhLWEzZTgtMTE2MzQwY2Y0NjVmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+###### Live Dashboard - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzZhYWJhZjctOTI4Yy00OTlhLWEzZTgtMTE2MzQwY2Y0NjVmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
